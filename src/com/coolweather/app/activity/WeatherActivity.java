@@ -31,6 +31,7 @@ public class WeatherActivity extends Activity implements OnClickListener{
 	private Button switchCity;
 	private Button refreshWeather;
 	
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
